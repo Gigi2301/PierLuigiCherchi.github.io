@@ -1,7 +1,7 @@
 ---
 title: Pier Luigi Cherchi’s e-Portfolio  
 description: Psychology, IT & Aviation professional  
----
+--- 
 
 # 👋 Hi, I’m Pier Luigi Cherchi
 _Bachelor in Psychological Sciences & Techniques| Certified Flight Dispatcher |Team Leader_
