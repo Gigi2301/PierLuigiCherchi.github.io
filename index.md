@@ -86,8 +86,8 @@ Former Breakdance instructor 🕺 | Rated chess player ♟️ | Drummer 🥁 | P
 
 ## 📬 Let’s Connect  
 ✉️ cherchi.p@yahoo.com  
-🔗 (https://www.linkedin.com/in/pier-luigi-cherchi-7a459716b/) 
-🌐 (https://gigi2301.github.io/PierLuigiCherchi.github.io/)
+🔗 https://www.linkedin.com/in/pier-luigi-cherchi-7a459716b
+🌐 https://gigi2301.github.io/PierLuigiCherchi.github.io
 
 ---
 
